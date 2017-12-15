@@ -1,0 +1,1 @@
+define({  "name": "Blog-Django",  "version": "0.1.0",  "description": "EternalZZX Django Blog API",  "title": "Django Blog API-EternalZZX",  "url": "blog/v1",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-12-15T12:22:56.530Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});
